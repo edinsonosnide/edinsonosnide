@@ -3,7 +3,7 @@ Welcome to my GitHub profile! Here's a quick glance at the technologies I work w
 
 ## Technologies 💻  
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; background-color: white;">
   <thead>
     <tr>
       <th style="border: 1px solid; padding: 8px;">Frontend</th>
