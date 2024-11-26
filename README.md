@@ -1,12 +1,8 @@
-## Hi there, I'm edinsonosnide 👋
+## Hi there, I'm edinsonosnide 👋 Welcome to my GitHub!
 
-Welcome to my GitHub! Feel free to reach out. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+### 🚀 Check out my portfolio: [**edinsonosnide.com**](http://edinsonosnide.com)
 
-### 🚀 Check out my portfolio:
-[**edinsonosnide.com**](http://edinsonosnide.com)
-
-### 💼 Let's connect on LinkedIn:
-[**linkedin.com/in/edinsonosnide**](https://www.linkedin.com/in/edinsonosnide)
+### 💼 Let's connect on LinkedIn: [**linkedin.com/in/edinsonosnide**](https://www.linkedin.com/in/edinsonosnide)
 
 ---
 
