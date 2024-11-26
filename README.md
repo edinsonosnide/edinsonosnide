@@ -1,5 +1,14 @@
-## Hi there 👋  
-Welcome to my GitHub profile! Here's a quick glance at the technologies I work with:  
+## Hi there, I'm edinsonosnide 👋
+
+Welcome to my GitHub! Feel free to reach out. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+### 🚀 Check out my portfolio:
+[**edinsonosnide.com**](http://edinsonosnide.com)
+
+### 💼 Let's connect on LinkedIn:
+[**linkedin.com/in/edinsonosnide**](https://www.linkedin.com/in/edinsonosnide)
+
+---
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=edinsonosnide&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -7,7 +16,6 @@ Welcome to my GitHub profile! Here's a quick glance at the technologies I work w
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=edinsonosnide&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
 ## Technologies 💻  
