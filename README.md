@@ -14,7 +14,7 @@
   <br>
 </p>
 
-## Technologies 💻  
+### 🛠️ Technologies I work with:
 
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
