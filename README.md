@@ -1,46 +1,71 @@
-## Hi there 👋
+## Hi there 👋  
+Welcome to my GitHub profile! Here's a quick glance at the technologies I work with:  
 
-<!--
-**edinsonosnide/edinsonosnide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies 💻  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Tecnologias 💻
-
-### Frontentd
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Testing
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-### Desgin
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid; padding: 8px;">Frontend</th>
+      <th style="border: 1px solid; padding: 8px;">Backend</th>
+      <th style="border: 1px solid; padding: 8px;">Databases</th>
+      <th style="border: 1px solid; padding: 8px;">Testing & Design</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/AWS_DynamoDB-%230072C6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="AWS DynamoDB"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/AWS_RDS-%230072C6.svg?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="AWS RDS"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></td>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 8px;"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+      <td style="border: 1px solid; padding: 8px;"></td>
+    </tr>
+  </tbody>
+</table>
